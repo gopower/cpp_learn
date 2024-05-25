@@ -5,7 +5,7 @@ cmake-build-debug
 cmake-build-release
 CMakeUserPresets.json
 conan_provider.cmake
-
+build
 .idea
 *.d
 
